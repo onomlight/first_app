@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// 기능을 쓰고싶으면 임포트 패키지를 해야함
 
 void main() {
   runApp(const MyApp());
